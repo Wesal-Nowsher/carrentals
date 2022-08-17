@@ -1,0 +1,38 @@
+.arabic-direction{
+   
+}
+
+.arabic-direction .site-navbar .site-navigation .site-menu{
+   
+}
+
+.arabic-direction *{
+    text-align: right;
+}
+.arabic-direction .listing .listing-contents h3{
+    width: 100%;
+    text-align: right;
+}
+.arabic-direction #contact-section .section-heading,.arabic-direction #contact-section .col-7,.arabic-direction #booking-section .section-heading,.arabic-direction #booking-section .col-7 p {
+    text-align: center;
+}
+.arabic-direction #register-section .section-heading {
+    text-align: right;
+}
+.arabic-direction #rentalplans .col-lg-4:nth-child(3) .rental-plans h4{
+    margin-top: -22px;
+  }
+.arabic-direction #rentalplans .col-lg-4 .rental-plans p{
+    direction: rtl;
+}
+.arabic-direction ul{
+    padding-right: 0px;
+}
+.arabic-direction .box-shdow-on ul{
+    direction: rtl;
+    padding-right: 2rem;
+}
+
+.arabic-direction .maps-div{
+    direction: rtl;
+}
